@@ -7,6 +7,6 @@ Package.new(
 	assets: {
 		'assets/raho1.png' => 'Graphics/Pictures/raho1.png',
 		'http://full.ouplo.com/f/12/AgkA.png' => 'Graphics/Pictures/raho2.png'
-	}
+	},
 	description: 'Epic script for Epic projects'
 )
